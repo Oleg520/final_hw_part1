@@ -1,6 +1,33 @@
-﻿// Задача: Написать программу, которая из имеющегося массива строк формирует новый массив из строк, 
-// длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры, 
-// либо задать на старте выполнения алгоритма. 
-// При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
+﻿string[] array = { "Hello", "2", "world", ":-)" };
+int maxLength = 3;
 
-string[] array = { "Hello", "2", "world", ":-)" };
+int CountNewArray(string[] array)
+{
+    int countNewArray = 0;
+    for (int i = 0;i < array.Length; i++)
+    {
+        if (array[i].Length <= maxLength)
+        {
+            countNewArray++;
+        }
+    }
+
+    return countNewArray;
+}
+
+string[] CreateNewArray(string[] array, int count)
+{
+    string[] newArray = new string[count];
+    int j = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= maxLength)
+        {
+            newArray[j] = array[i];
+            j++;
+        }
+    }
+
+    return newArray;
+}
+
