@@ -1,5 +1,7 @@
 ﻿string[] array = { "Hello", "2", "world", ":-)" };
 int maxLength = 3;
+PrintArray(array);
+PrintArray(CreateNewArray(array, CountNewArray(array)));
 
 int CountNewArray(string[] array)
 {
@@ -31,3 +33,12 @@ string[] CreateNewArray(string[] array, int count)
     return newArray;
 }
 
+void PrintArray(string[] array)
+{   
+    System.Console.Write("[");
+    for (int i = 0;i < array.Length-1; i++)
+    {
+        System.Console.Write($"{array[i]}, ");
+    }
+    System.Console.WriteLine($"{array[array.Length-1]}]");
+}
