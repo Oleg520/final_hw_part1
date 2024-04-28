@@ -1,0 +1,14 @@
+C:\GB Study\cs_itog_pt1\bin\Debug\net8.0\cs_itog_pt1.exe
+C:\GB Study\cs_itog_pt1\bin\Debug\net8.0\cs_itog_pt1.deps.json
+C:\GB Study\cs_itog_pt1\bin\Debug\net8.0\cs_itog_pt1.runtimeconfig.json
+C:\GB Study\cs_itog_pt1\bin\Debug\net8.0\cs_itog_pt1.dll
+C:\GB Study\cs_itog_pt1\bin\Debug\net8.0\cs_itog_pt1.pdb
+C:\GB Study\cs_itog_pt1\obj\Debug\net8.0\cs_itog_pt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB Study\cs_itog_pt1\obj\Debug\net8.0\cs_itog_pt1.AssemblyInfoInputs.cache
+C:\GB Study\cs_itog_pt1\obj\Debug\net8.0\cs_itog_pt1.AssemblyInfo.cs
+C:\GB Study\cs_itog_pt1\obj\Debug\net8.0\cs_itog_pt1.csproj.CoreCompileInputs.cache
+C:\GB Study\cs_itog_pt1\obj\Debug\net8.0\cs_itog_pt1.dll
+C:\GB Study\cs_itog_pt1\obj\Debug\net8.0\refint\cs_itog_pt1.dll
+C:\GB Study\cs_itog_pt1\obj\Debug\net8.0\cs_itog_pt1.pdb
+C:\GB Study\cs_itog_pt1\obj\Debug\net8.0\cs_itog_pt1.genruntimeconfig.cache
+C:\GB Study\cs_itog_pt1\obj\Debug\net8.0\ref\cs_itog_pt1.dll
